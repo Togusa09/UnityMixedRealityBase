@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="209401aa-72b8-4536-8b3c-540140dbf991" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/Editor/EditorAssemblyReloadManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <marker date="1569220464118" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+                <marker date="1569220464118" expanded="false" signature="160:191" ph="..." />
+                <marker date="1569220464118" expanded="true" signature="250:1713" ph="{...}" />
+                <marker date="1569220464118" expanded="true" signature="304:1711" ph="{...}" />
+                <marker date="1569220464118" expanded="true" signature="364:741" ph="/// Locks the Editor's ability to reload assemblies.&lt;para/&gt; ... " />
+                <marker date="1569220464118" expanded="true" signature="789:1705" ph="{...}" />
+                <marker date="1569220464118" expanded="true" signature="815:1668" ph="{...}" />
+                <marker date="1569220464118" expanded="true" signature="890:1210" ph="{...}" />
+                <marker date="1569220464118" expanded="true" signature="1021:1192" ph="{...}" />
+                <marker date="1569220464118" expanded="true" signature="1231:1654" ph="{...}" />
+                <marker date="1569220464118" expanded="true" signature="1476:1636" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/WindowsDevicePortal/DevicePortal.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="868" column="51" selection-start-line="868" selection-start-column="51" selection-end-line="868" selection-end-column="51" />
+              <folding>
+                <marker date="1569220464284" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+                <marker date="1569220464284" expanded="false" signature="160:402" ph="..." />
+                <marker date="1569220464284" expanded="true" signature="464:37259" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="471:601" ph="/// Function used to communicate with Windows 10 devices through the device portal REST APIs. ... " />
+                <marker date="1569220464284" expanded="true" signature="638:37257" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="682:799" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="809:1048" ph="/* Device Portal API Resources ... */" />
+                <marker date="1569220464284" expanded="true" signature="2349:2492" ph="/// Opens the Device Portal for the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="2558:2654" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="2671:2985" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DeviceOsInfo&quot;/&gt; of the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="3078:3821" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="3419:3732" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="3528:3633" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="3831:4143" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.MachineName&quot;/&gt; of the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="4234:4974" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="4574:4886" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="4683:4787" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="4984:5296" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.BatteryInfo&quot;/&gt; of the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="5388:6125" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="5724:6037" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="5833:5938" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="6135:6453" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.PowerStateInfo&quot;/&gt; of the target device ... " />
+                <marker date="1569220464284" expanded="true" signature="6546:7282" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="6885:7191" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="6994:7090" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="7292:7494" ph="/// Restart the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="7571:8937" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="7877:8679" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="8069:8635" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="8221:8560" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="8346:8436" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="8771:8849" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="8947:9142" ph="/// Shuts down the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="9220:9871" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="9528:9835" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="9637:9735" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="9881:10190" ph="/// Determines if the target application is currently running on the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="10294:10461" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="10471:10892" ph="/// Determines if the target application is running on the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="11026:12294" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="11132:11244" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="11278:11401" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="11575:11997" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="11752:11952" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="11853:11934" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="12089:12201" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="12304:12759" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ApplicationInfo&quot;/&gt; of the target appli ... " />
+                <marker date="1569220464284" expanded="true" signature="12879:13593" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="13096:13557" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="13232:13325" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="13450:13543" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="13692:14399" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="13992:14309" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="14101:14210" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="14409:14775" ph="/// Installs the target application on the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="14900:18754" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="15566:17190" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="15790:16032" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="15878:16014" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="16245:16487" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="16333:16469" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="16652:17176" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="16809:17158" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="16905:17136" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="17222:17319" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="17608:17984" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="17717:17843" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="18157:18718" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="18272:18704" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="18854:19651" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="19043:19494" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="19183:19275" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="19312:19408" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="19511:19591" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="19661:20064" ph="/// Uninstalls the target application on the target device ... " />
+                <marker date="1569220464284" expanded="true" signature="20198:21604" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="20304:20416" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="20450:20584" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="20960:21089" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="21144:21568" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="21253:21368" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="21614:22076" ph="/// Launches the target application on the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="22207:23481" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="22313:22425" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="22459:22593" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="22939:23289" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="23048:23160" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="23371:23445" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="23491:23903" ph="/// Stops the target application on the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="24032:25221" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="24138:24250" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="24284:24418" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="24710:25029" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="24819:24929" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="25111:25185" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="25231:25667" ph="/// Downloads and launches the Log file for the target application on the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="25806:27056" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="25912:26024" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="26058:26199" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="26619:26953" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="26728:26846" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="27066:27380" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.IpConfigInfo&quot;/&gt; of the target device. ... " />
+                <marker date="1569220464284" expanded="true" signature="27473:28209" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="27807:28120" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="27916:28021" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="28219:28692" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.AvailableWiFiNetworks&quot;/&gt; of the target ... " />
+                <marker date="1569220464284" expanded="true" signature="28832:29641" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="29206:29543" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="29315:29444" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="29651:30076" ph="/// Connects to the specified WiFi Network. ... " />
+                <marker date="1569220464284" expanded="true" signature="30249:30780" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="30790:31114" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.NetworkInterfaces&quot;/&gt; of the target dev ... " />
+                <marker date="1569220464284" expanded="true" signature="31221:31977" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="31561:31883" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="31670:31784" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="31987:32370" ph="/// This Utility method finalizes the URL and formats the HTTPS string if needed. ... " />
+                <marker date="1569220464284" expanded="true" signature="32429:32722" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="32552:32663" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="32732:32966" ph="/// Refreshes the CSRF Token in case the device or it's portal was restarted. ... " />
+                <marker date="1569220464284" expanded="true" signature="33052:33380" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="33129:33245" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="33390:33635" ph="/// Makes sure the Authentication Headers and CSRF Tokens are set. ... " />
+                <marker date="1569220464284" expanded="true" signature="33725:35788" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="33906:34002" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="34019:34118" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="34213:35672" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="34387:34662" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="34683:34806" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="34874:35658" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="34967:35101" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="35126:35257" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="35338:35475" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="35500:35640" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="35689:35749" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="35889:37251" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="36237:37098" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="36303:36441" ph="{...}" />
+                <marker date="1569220464284" expanded="true" signature="36503:36660" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A8ED2508-5085-4B43-9CED-C18931A314FE/85/d535e375/AsyncTaskMethodBuilder`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/WindowsDevicePortal/DevicePortal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/Editor/EditorAssemblyReloadManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="2420" />
+    <option name="height" value="1320" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="10824">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="10824" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="209401aa-72b8-4536-8b3c-540140dbf991" name="Default Changelist" comment="" />
+      <created>1569278707560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569278707560</updated>
+      <workItem from="1569278711184" duration="2324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2324000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986681" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991462" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/WindowsDevicePortal/DevicePortal.cs</url>
+          <line>825</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/WindowsDevicePortal/DevicePortal.cs" initialLine="825">
+            <startOffsets>
+              <option value="34722" />
+            </startOffsets>
+            <endOffsets>
+              <option value="34788" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/WindowsDevicePortal/DevicePortal.cs</url>
+          <line>813</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/WindowsDevicePortal/DevicePortal.cs" initialLine="813">
+            <startOffsets>
+              <option value="34244" />
+            </startOffsets>
+            <endOffsets>
+              <option value="34310" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/WindowsDevicePortal/DevicePortal.cs</url>
+          <line>861</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/WindowsDevicePortal/DevicePortal.cs" initialLine="861">
+            <startOffsets>
+              <option value="35993" />
+            </startOffsets>
+            <endOffsets>
+              <option value="36016" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/WindowsDevicePortal/DevicePortal.cs</url>
+          <line>866</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/WindowsDevicePortal/DevicePortal.cs" initialLine="866">
+            <startOffsets>
+              <option value="36181" />
+            </startOffsets>
+            <endOffsets>
+              <option value="36237" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/Editor/EditorAssemblyReloadManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <marker date="1569220464118" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+            <marker date="1569220464118" expanded="false" signature="160:191" ph="..." />
+            <marker date="1569220464118" expanded="true" signature="250:1713" ph="{...}" />
+            <marker date="1569220464118" expanded="true" signature="304:1711" ph="{...}" />
+            <marker date="1569220464118" expanded="true" signature="364:741" ph="/// Locks the Editor's ability to reload assemblies.&lt;para/&gt; ... " />
+            <marker date="1569220464118" expanded="true" signature="789:1705" ph="{...}" />
+            <marker date="1569220464118" expanded="true" signature="815:1668" ph="{...}" />
+            <marker date="1569220464118" expanded="true" signature="890:1210" ph="{...}" />
+            <marker date="1569220464118" expanded="true" signature="1021:1192" ph="{...}" />
+            <marker date="1569220464118" expanded="true" signature="1231:1654" ph="{...}" />
+            <marker date="1569220464118" expanded="true" signature="1476:1636" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A8ED2508-5085-4B43-9CED-C18931A314FE/85/d535e375/AsyncTaskMethodBuilder`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MixedRealityToolkit/Utilities/WindowsDevicePortal/DevicePortal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="868" column="51" selection-start-line="868" selection-start-column="51" selection-end-line="868" selection-end-column="51" />
+          <folding>
+            <marker date="1569220464284" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+            <marker date="1569220464284" expanded="false" signature="160:402" ph="..." />
+            <marker date="1569220464284" expanded="true" signature="464:37259" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="471:601" ph="/// Function used to communicate with Windows 10 devices through the device portal REST APIs. ... " />
+            <marker date="1569220464284" expanded="true" signature="638:37257" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="682:799" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="809:1048" ph="/* Device Portal API Resources ... */" />
+            <marker date="1569220464284" expanded="true" signature="2349:2492" ph="/// Opens the Device Portal for the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="2558:2654" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="2671:2985" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DeviceOsInfo&quot;/&gt; of the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="3078:3821" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="3419:3732" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="3528:3633" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="3831:4143" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.MachineName&quot;/&gt; of the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="4234:4974" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="4574:4886" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="4683:4787" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="4984:5296" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.BatteryInfo&quot;/&gt; of the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="5388:6125" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="5724:6037" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="5833:5938" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="6135:6453" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.PowerStateInfo&quot;/&gt; of the target device ... " />
+            <marker date="1569220464284" expanded="true" signature="6546:7282" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="6885:7191" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="6994:7090" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="7292:7494" ph="/// Restart the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="7571:8937" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="7877:8679" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="8069:8635" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="8221:8560" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="8346:8436" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="8771:8849" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="8947:9142" ph="/// Shuts down the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="9220:9871" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="9528:9835" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="9637:9735" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="9881:10190" ph="/// Determines if the target application is currently running on the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="10294:10461" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="10471:10892" ph="/// Determines if the target application is running on the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="11026:12294" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="11132:11244" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="11278:11401" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="11575:11997" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="11752:11952" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="11853:11934" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="12089:12201" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="12304:12759" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ApplicationInfo&quot;/&gt; of the target appli ... " />
+            <marker date="1569220464284" expanded="true" signature="12879:13593" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="13096:13557" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="13232:13325" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="13450:13543" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="13692:14399" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="13992:14309" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="14101:14210" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="14409:14775" ph="/// Installs the target application on the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="14900:18754" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="15566:17190" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="15790:16032" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="15878:16014" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="16245:16487" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="16333:16469" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="16652:17176" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="16809:17158" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="16905:17136" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="17222:17319" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="17608:17984" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="17717:17843" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="18157:18718" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="18272:18704" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="18854:19651" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="19043:19494" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="19183:19275" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="19312:19408" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="19511:19591" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="19661:20064" ph="/// Uninstalls the target application on the target device ... " />
+            <marker date="1569220464284" expanded="true" signature="20198:21604" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="20304:20416" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="20450:20584" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="20960:21089" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="21144:21568" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="21253:21368" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="21614:22076" ph="/// Launches the target application on the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="22207:23481" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="22313:22425" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="22459:22593" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="22939:23289" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="23048:23160" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="23371:23445" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="23491:23903" ph="/// Stops the target application on the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="24032:25221" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="24138:24250" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="24284:24418" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="24710:25029" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="24819:24929" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="25111:25185" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="25231:25667" ph="/// Downloads and launches the Log file for the target application on the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="25806:27056" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="25912:26024" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="26058:26199" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="26619:26953" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="26728:26846" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="27066:27380" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.IpConfigInfo&quot;/&gt; of the target device. ... " />
+            <marker date="1569220464284" expanded="true" signature="27473:28209" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="27807:28120" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="27916:28021" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="28219:28692" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.AvailableWiFiNetworks&quot;/&gt; of the target ... " />
+            <marker date="1569220464284" expanded="true" signature="28832:29641" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="29206:29543" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="29315:29444" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="29651:30076" ph="/// Connects to the specified WiFi Network. ... " />
+            <marker date="1569220464284" expanded="true" signature="30249:30780" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="30790:31114" ph="/// Gets the &lt;see cref=&quot;Microsoft.MixedReality.Toolkit.WindowsDevicePortal.NetworkInterfaces&quot;/&gt; of the target dev ... " />
+            <marker date="1569220464284" expanded="true" signature="31221:31977" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="31561:31883" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="31670:31784" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="31987:32370" ph="/// This Utility method finalizes the URL and formats the HTTPS string if needed. ... " />
+            <marker date="1569220464284" expanded="true" signature="32429:32722" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="32552:32663" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="32732:32966" ph="/// Refreshes the CSRF Token in case the device or it's portal was restarted. ... " />
+            <marker date="1569220464284" expanded="true" signature="33052:33380" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="33129:33245" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="33390:33635" ph="/// Makes sure the Authentication Headers and CSRF Tokens are set. ... " />
+            <marker date="1569220464284" expanded="true" signature="33725:35788" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="33906:34002" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="34019:34118" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="34213:35672" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="34387:34662" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="34683:34806" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="34874:35658" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="34967:35101" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="35126:35257" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="35338:35475" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="35500:35640" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="35689:35749" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="35889:37251" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="36237:37098" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="36303:36441" ph="{...}" />
+            <marker date="1569220464284" expanded="true" signature="36503:36660" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
